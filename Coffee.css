@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Dancing+Script:wght@600&display=swap');
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color: #765640;
+    position: relative;
+    margin-left: 10%;
+}
+
+.logo-child{
+    position: absolute;
+    text-align: center;
+    color: white;
+    left: 16%;
+    top: 24%;
+    /* position: sticky; */
+}
+header{
+    box-shadow:  0 6px 20px 0 rgba(0, 0, 0, 0.20); 
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+.h{
+    color: #765640;
+    width: 100px;
+}
+.h-1{
+    margin-left: 30%;
+    margin-top: -40px;
+  
+}
+
+.h-2{
+    margin-left: 48%;
+    margin-top: -45px;
+    
+}
+.h-3{
+    margin-left: 70%;
+    margin-top: -40px;
+   
+}
+.h-4{
+    margin-left: 90%;
+    margin-top: -45px;
+   
+}
+
+.h:hover{
+    box-shadow: 0px 7px #765640;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+#caption{
+    font-family: Agne;
+    font-size: 35px;
+    line-height: 43px;
+    vertical-align: middle;
+    color: #765640;
+    top: 250px;
+    left: 10%;
+
+    position: absolute;
+}
+#book_heading{
+    font-family: Agne;
+    font-size: 35px;
+    line-height: 200px;
+    color: #ffffff;
+    position: absolute;
+    left: 30%;
+}
+
+#feed_heading{
+    font-family: Agne;
+    font-size: 35px;
+    line-height: 70px;
+    color: #ffffff;
+    text-align: center;
+}
+.feed{
+    background: black;
+}
+
+
+.booking_fields {
+    background-color: transparent;
+    border-radius: 0;
+    border: 0;
+      border-bottom-color: currentcolor;
+      border-bottom-style: none;
+      border-bottom-width: 0px;
+    border-bottom: 2px solid #fff;
+    box-shadow: none;
+    outline: 0;
+    color: white;
+  }
+
+.ne{
+    position: absolute;
+    left: 10%;
+    top: 1500px;
+    color: white;
+}
+.ne2{
+    position: absolute;
+    left: 10%;
+    top: 1600px;
+    color: white;
+}
+
+
+
+
+#btn{
+    
+        position: absolute;
+        left: 34%;
+        top: 1700px;
+    
+}
+::placeholder{
+    color: white;
+}
+
+/* gallery */
+
+.gal-gead{
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-family: 'Lobster', cursive;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 120px;
+    padding-left: 120px;
+}
+#p1{
+    position: absolute;
+    top: 300px;
+    left: 10%;
+    width: 50%;
+    color: #765640;
+}
+.adrs{
+    margin-left: 10%;
+    margin-bottom: -8px;
+}
+.fm-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+.site-footer {
+    background: #cfd0d0;
+}
+
+.site-header{
+    background: white;
+}
+.emial{
+    text-align: center;
+    margin-top: -3%;
+}
+.hrs{
+    text-align: right;
+    margin-right: 5%;
+    margin-top: -5%;
+}
+.space{
+    text-align: right;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.col{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#p2{
+    text-align: justify;
+}
+
+.col:hover{
+    width: 300px;
+    background-color: wheat;
+}
+#gal_img{
+    border-radius: 10px;
+}
+
+.cpy{
+    margin-left: -8px;
+    height: 50px;
+  
+    padding-top: 15px;
+    padding-left: 40%;
+
+  }
+
+
+  .feed_ne{
+    margin-left: 25%;
+    margin-top: 25px;
+    color: white;
+}
+.feed_ne2{
+
+    margin-left: 40%;
+    margin-top: 25px;
+    color: white;
+}
+#btn2{
+    margin-left: 47%;
+    margin-top: 25px;
+
+}
